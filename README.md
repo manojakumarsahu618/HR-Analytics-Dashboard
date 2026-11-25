@@ -15,7 +15,10 @@ The dashboard provides an interactive view of HR metrics, helping HR professiona
 - Evaluate employee job satisfaction ratings.
 - Analyze attrition patterns across different education fields.
 - Provide interactive filters for exploring HR data.
+- 
+## Dashboard Preview
 
+![HR Analytics Dashboard](Capture.PNG)
 ## 📊 Dashboard KPIs
 
 | KPI | Value |
